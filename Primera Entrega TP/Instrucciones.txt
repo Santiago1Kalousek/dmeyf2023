@@ -1,0 +1,5 @@
+Esta carpeta contiene los 3 archivos que se utilizaron para realizar el TP 1, estos son: 
+
+"Z101_target_sql": Contiene el script en SQL donde se crea la variable Etiqueta que contiene el target a predecir en los modelos siguientes
+"Primera entrega modelo Final": Contiene el script en R donde se realizaron tecnicas de feature engineering, seleccion de variables y se construyo el modelo con los hiperparametros obtenidos por optimización bayesiana
+"z322_rpart_ternaria_BO_repe_xval": Contiene el script en R donde se realiza la busqueda de hiperparámetros con Optimización Bayesiana
